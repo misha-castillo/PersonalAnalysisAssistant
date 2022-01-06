@@ -1,8 +1,10 @@
 ---------------------
-Project name: Personal Finance Assistante (PerFiA)
-Version: 1.0 Quetzal
-Date: January 2022
-Creator: Miguel Castillo
+# 
+*Project name: Personal Finance Assistante (PerFiA)
+*Version: 1.0 Quetzal
+* Date: January 2022
+* Creator: Miguel Castillo
+#
 ---------------------
 
 CONTENTS WITHIN THE REPO
