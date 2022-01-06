@@ -1,0 +1,43 @@
+﻿id,description,brand,place_of_purchase,category,date_of_purchase,price
+1,Breakfast,Restaurant A,Restaurant A,Food and Beverages,19/02/2018,681.00
+2,Taxi from home to workplace,Uber,N/A,Transportation,20/08/2018,110.02
+3,Medical appointment,Clinica A,Clinic A,Health,20/08/2018,50.00
+4,Inyection,N/A,Clinic A,Health,21/08/2018,20.00
+5,Inyecciones,N/A,Clinic A,Health,22/08/2018,30.00
+6,Cookies,Brand A,Store A,Dessert,23/08/2018,18.00
+7,Monitor 27 in,LG,Best Buy,Computer,26/08/2018,5098.00
+8,Dark Chocolate,Brand B,Store A,Dessert,28/08/2018,30.00
+9,Requiem Mozart Concert,Ticketmaster,N/A,Museum/Expo,03/09/2018,4716.30
+10,Miscelaneus,N/A,N/A,Others,03/09/2018,4865.73
+11,Miscelaneus,N/A,N/A,Others,07/09/2018,22.00
+12,Cellphone,Brand C,Store B,Cellphone,15/09/2018,5450.50
+13,Micro SD 64 GB,Brand D,Store B,Cellphone,16/09/2018,540.00
+14,Taxi from Mall to Home,Uber,N/A,Transportation,28/09/2018,99.86
+15,Miscelaneus,N/A,N/A,Others,09/01/2018,90.00
+16,T-Shirt,Brand E,Store C,Clothing,09/10/2018,308.19
+17,Towel,Brand F,Store C,Clothing,09/10/2018,34.27
+18,Dates,Brand G,Store C,Food and Beverages,09/10/2018,99.00
+19,Hotel A,N/A,Hotel A,Lodging,04/11/2019,7544.55
+20,Bus Whitehorse - Airport,N/A,N/A,Transportation,04/11/2019,36.50
+21,Public Transport (5 Tickets),Compass,Compass,Transportation,05/11/2019,292.00
+22,Tour Vancouver - Whytecliff,N/A,N/A,Trips,05/11/2019,146.00
+23,Fish and Chips,Restaurant B,Restaurant B,Food and Beverages,05/11/2019,358.23
+24,Pizza,Restaurant C,Restaurant C,Food and Beverages,05/11/2019,240.00
+25,Acquarium,N/A,N/A,Museum/Expo,06/11/2019,582.54
+26,Cinnamon Twist bread,Store D,Store D,Dessert,06/11/2019,61.32
+27,Souvenir,N/A,Hudson House,Trips,06/11/2019,214.81
+28,Mocha coffee,Restaurant C,Restaurant C,Trips,06/11/2019,97.42
+29,Notebooks,Indigo,Indigo bookstore,Books,06/11/2019,264.67
+30,Lego Set,Lego,Amazon,Kids,21/06/2020,1448.90
+31,Pantry Stuff,N/A,Store A,House,06/07/2020,370.19
+32,Gasolina 10.75 lts,N/A,N/A,Car,06/07/2020,200.00
+33,Car taxes,N/A,N/A,Car,07/07/2020,660.00
+34,Amazon Prime,Amazon,Amazon,Entertainment,20/07/2020,99.00
+35,Fridge,Brand H,Store F,House,26/07/2020,15000.00
+36,Pantry Stuff,N/A,Store A,House,08/08/2020,208.38
+37,Netflix,Netflix,Netflix,Entertainment,20/08/2020,99.00
+38,Dinner,Restaurant E,Restaurant E,Food and Beverages,22/08/2020,2336.40
+39,Haircut,N/A,N/A,Health,30/08/2020,150.00
+40,Salmon Filette,N/A,Store A,Food and Beverages,12/09/2020,297.97
+41,CMOS Battery,Brand I,Store C,Accessory,14/09/2020,35.00
+42,SDD 240 GB,Brand J,Store C,Computer,14/09/2020,725.00
